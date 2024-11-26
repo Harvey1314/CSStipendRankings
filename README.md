@@ -36,16 +36,16 @@ This calculation dynamically updates based on filters.
 Here are a few screenshots of the application in action:
 
 ### **Home Screen with All Filters**
-![Screenshot 1](../screenshots/Screenshot1.jpeg)
+![Screenshot 1](./screenshots/Screenshot1.jpeg)
 
 ### **Sorted by Stipend**
-![Screenshot 2](../screenshots/Screenshot2.jpeg)
+![Screenshot 2](./screenshots/Screenshot2.jpeg)
 
 ### **Institution Filter - Public**
-![Screenshot 3](../screenshots/screenshot4.jpeg)
+![Screenshot 3](./screenshots/screenshot4.jpeg)
 
 ### **Filtered with Stipend Type**
-![Screenshot 4](../screenshots/Screenshot4.jpeg)
+![Screenshot 4](./screenshots/Screenshot4.jpeg)
 
 ## How to Use the App
 ## Development Setup
