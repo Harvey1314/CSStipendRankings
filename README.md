@@ -45,7 +45,7 @@ Here are a few screenshots of the application in action:
 ![Screenshot 3](./screenshots/screenshot4.jpeg)
 
 ### **Filtered with Stipend Type**
-![Screenshot 4](./screenshots/Screenshot4.jpeg)
+![Screenshot 4](./screenshots/Screenshot3.jpeg)
 
 ## How to Use the App
 ## Development Setup
